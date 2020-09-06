@@ -1,5 +1,9 @@
 # UniActionWithLogExtensionMethods
 
+Action デリゲートの実行前と実行後にログ出力できる拡張メソッド
+
+## 使用例
+
 ```cs
 using Kogane;
 using System;
